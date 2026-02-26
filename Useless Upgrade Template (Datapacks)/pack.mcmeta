@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "description": "Just a golden ingot, you can have netherite stuff",
+    "pack_format": 94.1,
+    "supported_formats": 94.1,
+    "min_format": 94.1,
+    "max_format": 94.1
+  }
+}

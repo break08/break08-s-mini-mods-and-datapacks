@@ -1,14 +1,8 @@
 {
   "type": "minecraft:smithing_transform",
-  "template": {
-    "item": "minecraft:gold_ingot"
-  },
-  "base": {
-    "item": "minecraft:diamond_shovel"
-  },
-  "addition": {
-    "item": "minecraft:netherite_ingot"
-  },
+  "template": "minecraft:gold_ingot",
+  "base": "minecraft:diamond_shovel",
+  "addition": "minecraft:netherite_ingot",
   "result": {
     "id": "minecraft:netherite_shovel"
   }

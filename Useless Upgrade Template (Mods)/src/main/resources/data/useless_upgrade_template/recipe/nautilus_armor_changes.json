@@ -1,9 +1,9 @@
 {
   "type": "minecraft:smithing_transform",
   "template": "minecraft:gold_ingot",
-  "base": "minecraft:diamond_sword",
+  "base": "minecraft:diamond_nautilus_armor",
   "addition": "minecraft:netherite_ingot",
   "result": {
-    "id": "minecraft:netherite_sword"
+    "id": "minecraft:netherite_nautilus_armor"
   }
 }

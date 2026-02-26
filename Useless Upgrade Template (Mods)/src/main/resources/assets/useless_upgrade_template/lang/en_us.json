@@ -1,1 +1,13 @@
-{}
+{
+  "itemGroup.useless_upgrade_template": "Example Mod Tab",
+  "block.useless_upgrade_template.example_block": "Example Block",
+  "item.useless_upgrade_template.example_item": "Example Item",
+
+  "useless_upgrade_template.configuration.title": "Useless Upgrade Template Configs",
+  "useless_upgrade_template.configuration.section.useless_upgrade_template.common.toml": "Useless Upgrade Template Configs",
+  "useless_upgrade_template.configuration.section.useless_upgrade_template.common.toml.title": "Useless Upgrade Template Configs",
+  "useless_upgrade_template.configuration.items": "Item List",
+  "useless_upgrade_template.configuration.logDirtBlock": "Log Dirt Block",
+  "useless_upgrade_template.configuration.magicNumberIntroduction": "Magic Number Text",
+  "useless_upgrade_template.configuration.magicNumber": "Magic Number"
+}
