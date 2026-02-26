@@ -1,0 +1,6 @@
+main: com.eznetherite.uselessupgradetemplate.UselessUpgradeTemplate
+name: UselessUpgradeTemplate
+version: "1.0.1"
+api-version: "1.21.11"
+author: [break08]
+description: Get Netherite stuff without Upgrade Template
